@@ -18,10 +18,12 @@ enhance their coding skills, this class is perfect for you. Our expert instructo
 ##  🌟 Inquiries : infoapipothi@gmail.com
 
 ##  📌 Who Should Attend
-> 📢 Beginners with no prior programming experience
->  📢 Students looking to excel in JAVA programming
-> 📢 Individuals aiming to transition into software development
-> 📢 Programmers interested in adding JAVA to their skillset
+```
+	 > 📢 Beginners with no prior programming experience
+	 > 📢 Students looking to excel in JAVA programming
+	 > 📢 Individuals aiming to transition into software development
+	 > 📢 Programmers interested in adding JAVA to their skillset
+```
 
 
 ##  📝 Class Overview:
