@@ -1,0 +1,53 @@
+
+int a = 2
+SOP (a)// 2
+
+
+int a1 = 2+1
+SOP (a1)// 3
+
+int a2 = ++2
+SOP (a2)//?
+
+
+int x = 4;
+int y = ++ (++x);
+        // int y = ++ (++4);
+        // int y = ++ (5); //
+         // You are trying to change the value of Constant
+         // Which is not possible
+         // You are getting error
+SOP (x)
+SOP (Y)
+O/p-  Error
+
+
+
+
+        int x = 4;
+        int a = ++(x++);
+        System.out.println("---- Value of X :: "+ x);//
+        System.out.println("---- Value of a :: "+ a);//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
