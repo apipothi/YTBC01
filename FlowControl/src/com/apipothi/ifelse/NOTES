@@ -1,0 +1,29 @@
+
+
+condition depends up on  : boolean
+
+condition depends up on  : true/false
+
+English :
+
+if condition  is true then Task 1
+
+If condition is false then Task 2
+
+if(condition){
+
+   // Do your business - If Condition is True
+   // Task-1
+
+}else{
+
+    // Do your business - If Condition is False
+    // Task-2
+}
+
+// Only Else COndition not applicable
+else{
+
+    // Do your business - If Condition is False
+    // Task-2
+}
