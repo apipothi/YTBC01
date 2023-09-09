@@ -1,0 +1,17 @@
+What is The Package ?
+
+    Folder Structure
+
+        com.apipothi.dowhiles;
+
+         A.B.C:
+
+            A -> com/init/
+            B -> apipothi/CompanyName or ProjectName
+            C -> ProjectModule/COnfigNamee
+
+            B/MyFile.txt
+            B/MyFile.txt -- Two Time
+
+            A/MyFile.txt
+            B/MyFile.txt -- Two Time
