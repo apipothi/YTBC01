@@ -1,0 +1,66 @@
+System.out.println("--- STRAT- ************* LAB-1 *************");
+
+System.out.println("--- END- ************* LAB-1 *************");
+
+System.out();
+
+public class Lab1
+
+
+<"Access Modifier"> class <"Name of the Class">
+
+What Should be the <"Name of the Class">:
+
+        1. First Letter of the Class Name should be in Upper case.
+        2. Class Name should Start with Alphabet
+
+What is the <"Access Modifier"> ?
+
+What do you mean by "AnyWhere" ?
+
+    1. Is should be accessable from all the packages ....
+
+
+    Parent and Child Relationship
+
+
+class A {
+
+}
+
+
+class B {
+
+}
+
+class B extends A {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
